@@ -60,3 +60,22 @@
 			"Group:35837815:246",--new trcu devs
 		};  
 	};
+
+
+
+
+
+		["Management"] = {
+			Level = 900; --// Anything 900 or higher will be considered a creator and will bypass all perms & be allowed to edit settings in-game.
+			Users = {
+				"Group:35837815:252",
+				"Group:35837815:251",
+				"WolfedmortWasTaken",
+				"Astrandos",
+				"Mrjbot",
+				"IltrionDev",
+                "OutSimplfied",
+				"digitalsurf",-- head DEV LARP	
+			};     
+		};
+	};
